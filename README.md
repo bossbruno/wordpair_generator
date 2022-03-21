@@ -1,16 +1,8 @@
 # wordpair_generator
 
-A new Flutter project.
+A simple Flutter project that uses flutter English word packages
+To generate WordPairs not longer than 15 characters
+It also allows you to favourite particular words and store them on a different page
+Install apk to use app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
